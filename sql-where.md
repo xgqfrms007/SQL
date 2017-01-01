@@ -6,9 +6,10 @@ http://www.runoob.com/sql/sql-where.html
 
 
 ## WHERE 子句中的运算符  
-下面的运算符可以在 WHERE 子句中使用：  
+下面的运算符可以在 WHERE 子句中使用： 
+> 
 运算符	描述  
-=	等于  
+=	等于    
 <>	不等于。注释：在 SQL 的一些版本中，该操作符可被写成 !=  
 >	大于  
 <	小于  
